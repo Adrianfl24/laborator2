@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int function(int x){
-	x=x-2;
+	x=x-3;
 	//x=function(x);
 	return x;
 }
